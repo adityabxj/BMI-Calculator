@@ -1,0 +1,10 @@
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\bin\Debug\BMI C#.exe.config
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\bin\Debug\BMI C#.exe
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\bin\Debug\BMI C#.pdb
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\obj\Debug\BMI C#.csproj.AssemblyReference.cache
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\obj\Debug\BMI_C_.Form1.resources
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\obj\Debug\BMI_C_.Properties.Resources.resources
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\obj\Debug\BMI C#.csproj.GenerateResource.cache
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\obj\Debug\BMI C#.csproj.CoreCompileInputs.cache
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\obj\Debug\BMI C#.exe
+C:\Users\adity\OneDrive\Desktop\Projects\WEB DEV\BMI Calculator\BMI C#\BMI C#\obj\Debug\BMI C#.pdb
